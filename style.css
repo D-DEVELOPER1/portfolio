@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+}
+#first-div{
+    margin: 15px;
+}
+li{
+    margin-left: 20px;
+    color: orange;
+}
